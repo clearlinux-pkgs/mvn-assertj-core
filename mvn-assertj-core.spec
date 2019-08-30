@@ -4,7 +4,7 @@
 #
 Name     : mvn-assertj-core
 Version  : 3.8.0
-Release  : 1
+Release  : 2
 URL      : https://github.com/joel-costigliola/assertj-core/archive/assertj-core-3.8.0.tar.gz
 Source0  : https://github.com/joel-costigliola/assertj-core/archive/assertj-core-3.8.0.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/assertj/assertj-core/3.8.0/assertj-core-3.8.0.jar
